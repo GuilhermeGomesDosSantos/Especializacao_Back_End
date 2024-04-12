@@ -10,9 +10,7 @@ public class conversaoDeTemperatura {
     public static void main(String[] args) {
         int grauFahrenheit = 32;
         int grauCelsius = 22;
-
         double conversao = (grauCelsius * 1.8) + grauFahrenheit;
-
         System.out.println("A conversão de '" + grauCelsius + "' Graus Celsius para Fahrenheit é: '" + conversao + "'");
     }
 }
