@@ -10,7 +10,7 @@ public class Main {
         boolean incluidoNoPlano = true;
         double notaFilme = 8.1;
 
-        double media = (9.5 + 2.6 + 8.6) / 3;
+        double media = (9.8 + 6.3 + 8.0) / 3;
         System.out.println(media);
 
         String sinopse;
@@ -22,5 +22,12 @@ public class Main {
                 2022
                 """;
         System.out.println(sinopse);
+
+        int classficacao;
+        // classficacao = media / 2; // vai precisar de uma conversão
+//        int classficacao = (int) media / 2;
+        classficacao = (int) media / 2;
+
+        System.out.println(classficacao);
     }
 }
