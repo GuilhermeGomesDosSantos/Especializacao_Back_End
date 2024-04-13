@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Casting de uma variavel do tipo double para um tipo int">
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Mensagem/Mensagem.java" afterDir="false" />
+    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Concatenando variavel do tipo char e String">
+      <change afterPath="$PROJECT_DIR$/src/Atividades/PrecoProduto/PrecoProduto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,9 @@
   "keyToString": {
     "Application.CastingVariavel.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Mensagem.executor": "Run",
     "Application.NotasDecimais.executor": "Run",
+    "Application.PrecoProduto.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.Subtracao.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -125,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712965046419</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Concatenando variavel do tipo char e String">
+      <option name="closed" value="true" />
+      <created>1712965578773</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712965578773</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +144,7 @@
     <MESSAGE value="Conversão de Temperaturas" />
     <MESSAGE value="Notas Decimais" />
     <MESSAGE value="Casting de uma variavel do tipo double para um tipo int" />
-    <option name="LAST_COMMIT_MESSAGE" value="Casting de uma variavel do tipo double para um tipo int" />
+    <MESSAGE value="Concatenando variavel do tipo char e String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concatenando variavel do tipo char e String" />
   </component>
 </project>
