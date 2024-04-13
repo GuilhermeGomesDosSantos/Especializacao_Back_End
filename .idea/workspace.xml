@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Converter Dolar para Real">
-      <change afterPath="$PROJECT_DIR$/src/Atividades/PrecoOriginal/PrecoOriginal.java" afterDir="false" />
+    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Preço do produto com desconto">
+      <change afterPath="$PROJECT_DIR$/src/Condicanal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CastingVariavel.executor": "Run",
+    "Application.Condicanal.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Mensagem.executor": "Run",
     "Application.NotasDecimais.executor": "Run",
@@ -153,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712968147880</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Preço do produto com desconto">
+      <option name="closed" value="true" />
+      <created>1712968919844</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712968919844</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +174,7 @@
     <MESSAGE value="Concatenando variavel do tipo char e String" />
     <MESSAGE value="Preço do Produto" />
     <MESSAGE value="Converter Dolar para Real" />
-    <option name="LAST_COMMIT_MESSAGE" value="Converter Dolar para Real" />
+    <MESSAGE value="Preço do produto com desconto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Preço do produto com desconto" />
   </component>
 </project>
