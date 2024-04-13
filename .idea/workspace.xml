@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Par ou impar">
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Fatorial/Fatorial.java" afterDir="false" />
+    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Fatorial">
+      <change afterPath="$PROJECT_DIR$/src/DesafioFinal/DesafioFinal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Application.CastingVariavel.executor": "Run",
     "Application.CompararNumeros.executor": "Run",
     "Application.Condicanal.executor": "Run",
+    "Application.DesafioFinal.executor": "Run",
     "Application.Fatorial.executor": "Run",
     "Application.JogoDeAdivinha.executor": "Run",
     "Application.Leitura.executor": "Run",
@@ -76,13 +77,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Fatorial">
-    <configuration name="CompararNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividades.CompararNumeros.CompararNumeros" />
+  <component name="RunManager" selected="Application.DesafioFinal">
+    <configuration name="DesafioFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioFinal.DesafioFinal" />
       <module name="Especializacao_Back_End" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atividades.CompararNumeros.*" />
+          <option name="PATTERN" value="DesafioFinal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioFinal" />
         <item itemvalue="Application.Fatorial" />
         <item itemvalue="Application.ParOuImpar" />
         <item itemvalue="Application.Tabuada" />
         <item itemvalue="Application.MenuDuasOpcoes" />
-        <item itemvalue="Application.CompararNumeros" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713036376491</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Fatorial">
+      <option name="closed" value="true" />
+      <created>1713037879370</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713037879370</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -359,6 +368,7 @@
     <MESSAGE value="Menu 2 opções" />
     <MESSAGE value="Tabuada" />
     <MESSAGE value="Par ou impar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Par ou impar" />
+    <MESSAGE value="Fatorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fatorial" />
   </component>
 </project>
