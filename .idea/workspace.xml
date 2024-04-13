@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Avaliando o filme">
+    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Outras formas de iterar dados">
       <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -189,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713021983951</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Outras formas de iterar dados">
+      <option name="closed" value="true" />
+      <created>1713022900432</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713022900432</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,6 +213,7 @@
     <MESSAGE value="Tomando decisões" />
     <MESSAGE value="Leitura de dados" />
     <MESSAGE value="Avaliando o filme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avaliando o filme" />
+    <MESSAGE value="Outras formas de iterar dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Outras formas de iterar dados" />
   </component>
 </project>
