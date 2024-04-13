@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Menu 2 opções">
-      <change afterPath="$PROJECT_DIR$/src/Atividades/Tabuada/Tabuada.java" afterDir="false" />
+    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Tabuada">
+      <change afterPath="$PROJECT_DIR$/src/Atividades/ParOuImpar/ParOuImpar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Tabuada">
+  <component name="RunManager" selected="Application.ParOuImpar">
     <configuration name="CompararNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Atividades.CompararNumeros.CompararNumeros" />
       <module name="Especializacao_Back_End" />
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogoDeAdivinha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafio.JogoDeAdivinha" />
+    <configuration name="MenuDuasOpcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividades.MenuDuasOpcoes.MenuDuasOpcoes" />
       <module name="Especializacao_Back_End" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Desafio.*" />
+          <option name="PATTERN" value="Atividades.MenuDuasOpcoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuDuasOpcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividades.MenuDuasOpcoes.MenuDuasOpcoes" />
+    <configuration name="ParOuImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividades.ParOuImpar.ParOuImpar" />
       <module name="Especializacao_Back_End" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atividades.MenuDuasOpcoes.*" />
+          <option name="PATTERN" value="Atividades.ParOuImpar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParOuImpar" />
         <item itemvalue="Application.Tabuada" />
         <item itemvalue="Application.MenuDuasOpcoes" />
         <item itemvalue="Application.CompararNumeros" />
         <item itemvalue="Application.PositivoNegativo" />
-        <item itemvalue="Application.JogoDeAdivinha" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713035456346</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Tabuada">
+      <option name="closed" value="true" />
+      <created>1713036094572</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713036094572</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -339,6 +347,7 @@
     <MESSAGE value="Número Positivo ou Negativo" />
     <MESSAGE value="Comparar 2 Números" />
     <MESSAGE value="Menu 2 opções" />
-    <option name="LAST_COMMIT_MESSAGE" value="Menu 2 opções" />
+    <MESSAGE value="Tabuada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tabuada" />
   </component>
 </project>
