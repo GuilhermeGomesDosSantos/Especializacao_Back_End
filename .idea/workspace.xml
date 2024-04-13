@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Jogo de Adivinhação">
-      <change afterPath="$PROJECT_DIR$/src/Atividades/PositivoNegativo/PositivoNegativo.java" afterDir="false" />
+    <list default="true" id="d96680d7-3e17-481c-a04a-301a568aebbc" name="Changes" comment="Número Positivo ou Negativo">
+      <change afterPath="$PROJECT_DIR$/src/Atividades/CompararNumeros/CompararNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CastingVariavel.executor": "Run",
+    "Application.CompararNumeros.executor": "Run",
     "Application.Condicanal.executor": "Run",
     "Application.JogoDeAdivinha.executor": "Run",
     "Application.Leitura.executor": "Run",
@@ -57,6 +58,7 @@
     "Application.Mensagem.executor": "Run",
     "Application.NotasDecimais.executor": "Run",
     "Application.OutroLoop.executor": "Run",
+    "Application.PositivoNegativo.executor": "Run",
     "Application.PrecoOriginal.executor": "Run",
     "Application.PrecoProduto.executor": "Run",
     "Application.Soma.executor": "Run",
@@ -70,7 +72,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PositivoNegativo">
+  <component name="RunManager" selected="Application.CompararNumeros">
+    <configuration name="CompararNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividades.CompararNumeros.CompararNumeros" />
+      <module name="Especializacao_Back_End" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Atividades.CompararNumeros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JogoDeAdivinha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio.JogoDeAdivinha" />
       <module name="Especializacao_Back_End" />
@@ -99,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompararNumeros" />
         <item itemvalue="Application.PositivoNegativo" />
         <item itemvalue="Application.JogoDeAdivinha" />
       </list>
@@ -248,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713029194046</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Número Positivo ou Negativo">
+      <option name="closed" value="true" />
+      <created>1713030370694</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713030370694</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,6 +290,7 @@
     <MESSAGE value="Avaliando o filme" />
     <MESSAGE value="Outras formas de iterar dados" />
     <MESSAGE value="Jogo de Adivinhação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jogo de Adivinhação" />
+    <MESSAGE value="Número Positivo ou Negativo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Número Positivo ou Negativo" />
   </component>
 </project>
